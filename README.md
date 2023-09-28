@@ -72,9 +72,13 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  gh repo clone Nahid1911/hello-rails-react
+  gh repo clone Nahid1911/hello-rails-back-end
 
-  Run `./bin/dev`
+  Run "rails db:create"
+  Run "rails db:migrate"
+  Run "rails db:seed"
+
+  Run `rails server`
 ```
 
 ### Install
