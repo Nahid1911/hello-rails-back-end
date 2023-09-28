@@ -1,4 +1,4 @@
-<h1>Hello Rails React</h1>
+<h1>Hello Rails back End</h1>
 
 <a name="readme-top"></a>
 
@@ -23,9 +23,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Expence Tracker App <a name="about-project"></a>
+# 📖 Hello Rails back End< <a name="about-project"></a>
 
 In this web application i have implemented a connection between a Ruby on Rails back-end and React front-end..
+
+[Link of Hello React Front-End] (https://github.com/Nahid1911/hello-react-front-end/tree/config-branch-react)
 
 ## 🛠 Built With <a name="built-with"></a>
 
